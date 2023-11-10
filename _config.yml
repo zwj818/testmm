@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "中医渐冻症研究"
+title                    : "中医读书社"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "研究小组"
+name                     : "中医读书社"
 description              : # "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
